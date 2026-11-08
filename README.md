@@ -103,16 +103,6 @@ I enjoy building web applications that combine thoughtful design with reliable e
 
 ---
 
-### `05 / DAILY INSPIRATION`
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
-
-</div>
-
----
-
 ### `06 / LET'S CONNECT`
 
 <div align="center">
