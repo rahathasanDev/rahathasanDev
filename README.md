@@ -1,111 +1,136 @@
-# Hey, I'm Rahat Hasan 👋
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 RAHAT HASAN | README                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-### Full-Stack Developer | JavaScript Enthusiast | Creative Problem Solver
+<div align="center">
 
-I build modern, scalable, and user-focused web applications. Passionate about clean code, intuitive interfaces, and exploring technologies that turn ideas into meaningful digital experiences.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=RAHAT%20HASAN&fontSize=65&color=0:09090b,50:312e81,100:0891b2&stroke=6366f1&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20ENGINEER&descSize=15&descAlignY=75" width="100%" />
 
-- 💻 Focused on building modern web applications
-- 🚀 Exploring scalable backend architectures and emerging technologies
-- 🎨 Interested in UI/UX, creative development, and interactive experiences
-- 🌱 Always learning, building, and improving
-- 🤝 Open to collaboration and interesting projects
+<br/>
 
----
+<a href="https://github.com/rahathasanDev">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+digital+experiences.;Turning+ideas+into+reality.;Writing+code+with+purpose.;Always+learning.+Always+building." alt="Typing SVG"/>
+</a>
 
-## 🌐 Connect With Me
+<br/>
 
-<p align="left">
-  <a href="https://bsky.app/profile/rahatcodes.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
-  </a>
-  <a href="https://instagram.com/__rahat.verse__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/rahat-hasan-coder-365d7w/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/rahatcoder">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://youtube.com/@rahathasan92">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:devrahat.hasan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+**I turn ideas into functional, beautiful digital experiences.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/rahathasanDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/rahat-hasan-coder-365d7w/)
+[![X](https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white)](https://x.com/rahatcoder)
+[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/__rahat.verse__)
+[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:devrahat.hasan@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+### `01 / ABOUT ME`
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
-</p>
+```yaml
+name: Rahat Hasan
+role: Full-Stack Developer
+username: rahathasanDev
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,bootstrap,threejs,vite" />
-</p>
+interests:
+  - Web Development
+  - Modern UI/UX
+  - Backend Architecture
+  - Creative Coding
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,firebase,mongodb,postgres,redis" />
-</p>
+mindset: "Learn. Build. Improve. Repeat."
+currently: "Exploring new technologies"
+```
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vercel,netlify,gcp,windows" />
-</p>
+I enjoy building web applications that combine thoughtful design with reliable engineering. My focus is creating meaningful digital products with modern technologies, maintainable code, and great user experiences.
 
-### UI Libraries & Additional Technologies
+---
+
+### `02 / TECH ARSENAL`
+
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrateDB-009DC7?style=flat-square&logo=cratedb&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
+</p>
+
+**Frontend Ecosystem**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,bootstrap,threejs,vite&theme=dark" />
+</p>
+
+**Backend & Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,firebase,mongodb,postgres&theme=dark" />
+</p>
+
+**Development Tools & Platforms**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vercel,netlify,gcp,windows&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### `03 / GITHUB PERFORMANCE`
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahathasanDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=rahathasanDev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathasanDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rahathasanDev&show_icons=true&hide_border=true&bg_color=09090b&title_color=818cf8&icon_color=22d3ee&text_color=cbd5e1&include_all_commits=true&count_private=true" />
 
----
+<br/>
 
-## 🐍 Contribution Activity
+<img width="100%" src="https://streak-stats.demolab.com?user=rahathasanDev&hide_border=true&background=09090b&ring=818cf8&fire=22d3ee&currStreakLabel=818cf8&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahathasanDev/rahathasanDev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
+<br/>
+
+<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathasanDev&layout=donut&hide_border=true&bg_color=09090b&title_color=818cf8&text_color=cbd5e1" />
+
+</div>
 
 ---
 
-## 💭 Developer Philosophy
+### `04 / CONTRIBUTION GRAPH`
 
-> "Great software is not just about writing code. It's about solving problems, creating experiences, and making a difference."
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahathasanDev&bg_color=09090b&color=818cf8&line=22d3ee&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahathasanDev&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+### `05 / DAILY INSPIRATION`
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-  <br/>
-  <sub>Let's build something meaningful together. 🚀</sub>
-</p>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
+
+</div>
+
+---
+
+### `06 / LET'S CONNECT`
+
+<div align="center">
+
+**Have an interesting idea or project? Let's make it happen.**
+
+<a href="mailto:devrahat.hasan@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20TALK-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rahathasanDev&style=flat-square&color=6366f1&label=PROFILE+VISITORS" />
+
+<br/><br/>
+
+<sub>Designed with intention. Built with passion. Powered by curiosity.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0891b2&height=100&section=footer" width="100%" />
+
+</div>
