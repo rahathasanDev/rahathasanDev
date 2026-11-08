@@ -92,8 +92,6 @@ Hi, I'm **Rahat Hasan** — a developer passionate about building modern, useful
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahathasanDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathasanDev&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
