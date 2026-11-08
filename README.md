@@ -79,29 +79,10 @@ I enjoy building web applications that combine thoughtful design with reliable e
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rahathasanDev&show_icons=true&hide_border=true&bg_color=09090b&title_color=818cf8&icon_color=22d3ee&text_color=cbd5e1&include_all_commits=true&count_private=true" />
-
-<br/>
-
 <img width="100%" src="https://streak-stats.demolab.com?user=rahathasanDev&hide_border=true&background=09090b&ring=818cf8&fire=22d3ee&currStreakLabel=818cf8&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
 
-<br/>
-
-<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathasanDev&layout=donut&hide_border=true&bg_color=09090b&title_color=818cf8&text_color=cbd5e1" />
 
 </div>
-
----
-
-### `04 / CONTRIBUTION GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahathasanDev&bg_color=09090b&color=818cf8&line=22d3ee&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
 
 ### `06 / LET'S CONNECT`
 
@@ -117,10 +98,4 @@ I enjoy building web applications that combine thoughtful design with reliable e
 
 <img src="https://komarev.com/ghpvc/?username=rahathasanDev&style=flat-square&color=6366f1&label=PROFILE+VISITORS" />
 
-<br/><br/>
 
-<sub>Designed with intention. Built with passion. Powered by curiosity.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0891b2&height=100&section=footer" width="100%" />
-
-</div>
