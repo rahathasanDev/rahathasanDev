@@ -1,98 +1,26 @@
  <div align="center">
 
-# RAHAT HASAN
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090F,35:21104D,70:4C1D95,100:0891B2&text=RAHAT%20HASAN&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER%20%7C%20CREATIVE%20TECH%20ENTHUSIAST&descSize=14&descAlignY=58&animation=twinkling"/>
 
-### `Full-Stack Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+for+the+web.;Creating+digital+experiences.;Learning+something+new+every+day.;Turning+ideas+into+reality."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Rahat+Hasan+%F0%9F%91%8B;Frontend+%26+Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Python;React+%7C+Next.js+%7C+Node.js;Building+Ideas+Into+Digital+Experiences+%E2%9C%A8"/>
 
 <br/>
 
-I build modern web applications with a focus on clean code, thoughtful design, and great user experiences.
+**I turn ideas into interactive digital experiences.**
 
-[GitHub](https://github.com/rahathasanDev) · [LinkedIn](https://linkedin.com/in/rahat-hasan-coder-365d7w/) · [Instagram](https://instagram.com/__rahat.verse__) · [Email](mailto:devrahat.hasan@gmail.com)
+*Code with creativity. Build with purpose. Keep evolving.*
 
-</div>
+<br/>
 
----
-
-### ABOUT
-
-- 💻 Full-Stack Web Development
-- 🎨 UI Design & Creative Development
-- ⚡ Modern JavaScript Ecosystem
-- 🌱 Continuous Learning & Experimentation
-- 🤝 Open to Collaboration
-
----
-
-### TECHNOLOGIES
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-
-**Frontend & Frameworks**
-
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js)
-![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-111827?style=flat-square&logo=redux&logoColor=764ABC)
-![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![Sass](https://img.shields.io/badge/Sass-111827?style=flat-square&logo=sass&logoColor=CC6699)
-![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF)
-
-**UI Libraries & State Management**
-
-![Ant Design](https://img.shields.io/badge/Ant_Design-111827?style=flat-square&logo=antdesign&logoColor=0170FE)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-111827?style=flat-square&logo=daisyui&logoColor=5A0EF8)
-![Semantic UI React](https://img.shields.io/badge/Semantic_UI_React-111827?style=flat-square&logo=semanticuireact)
-![React Query](https://img.shields.io/badge/React_Query-111827?style=flat-square&logo=reactquery&logoColor=FF4154)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-111827?style=flat-square&logo=reacthookform&logoColor=EC5990)
-![React Router](https://img.shields.io/badge/React_Router-111827?style=flat-square&logo=reactrouter&logoColor=CA4245)
-![Context API](https://img.shields.io/badge/Context_API-111827?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Bun](https://img.shields.io/badge/Bun-111827?style=flat-square&logo=bun)
-![NPM](https://img.shields.io/badge/NPM-111827?style=flat-square&logo=npm&logoColor=CB3837)
-
-**Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28)
-![CrateDB](https://img.shields.io/badge/CrateDB-111827?style=flat-square&logo=cratedb&logoColor=009DC7)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=flat-square&logo=googlecloud&logoColor=4285F4)
-
-**Tools, Design & Platforms**
-
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2671E5)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-111827?style=flat-square&logo=windowsterminal)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-111827?style=flat-square&logo=netlify&logoColor=00C7B7)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E)
-![Framer](https://img.shields.io/badge/Framer-111827?style=flat-square&logo=framer)
-![Canva](https://img.shields.io/badge/Canva-111827?style=flat-square&logo=canva&logoColor=00C4CC)
-![Web3.js](https://img.shields.io/badge/Web3.js-111827?style=flat-square&logo=web3.js&logoColor=F16822)
-
----
-
-### CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rahathasanDev/rahathasanDev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<a href="https://github.com/rahathasanDev">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/rahat-hasan-coder-365d7w/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:devrahat.hasan@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -100,19 +28,218 @@ I build modern web applications with a focus on clean code, thoughtful design, a
 
 <div align="center">
 
-### LET'S CONNECT
+## ◈ 01 — THE DEVELOPER
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/rahatcodes.bsky.social)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__rahat.verse__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahat-hasan-coder-365d7w/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rahatcoder)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@rahathasan92)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devrahat.hasan@gmail.com)
+*Beyond code. Beyond boundaries.*
+
+</div>
+
+```javascript
+const rahatHasan = {
+    name: "Rahat Hasan",
+    username: "rahathasanDev",
+    role: "Full-Stack Web Developer",
+
+    languages: [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "HTML",
+        "CSS"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Vue.js",
+        "Three.js",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "NestJS",
+        "Bun"
+    ],
+
+    databases: [
+        "MongoDB",
+        "PostgreSQL",
+        "Firebase",
+        "CrateDB"
+    ],
+
+    creativeTools: [
+        "Figma",
+        "Framer",
+        "Canva"
+    ],
+
+    deployment: [
+        "Vercel",
+        "Netlify",
+        "Google Cloud"
+    ],
+
+    mindset: "Learn • Create • Improve"
+};
+```
+
+I'm passionate about web technologies, modern interfaces, and building functional digital products. I enjoy working across different parts of the development ecosystem, from frontend experiences to backend systems, databases, and deployment.
+
+---
+
+<div align="center">
+
+## ◈ 02 — MY TECHNOLOGY UNIVERSE
+
+*The technologies behind my digital creations.*
+
+</div>
+
+### ⚡ Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark"/>
+</p>
+
+### 🎨 Frontend & UI Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,bootstrap,threejs,vite&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Ant%20Design-0B1020?style=flat-square&logo=antdesign&logoColor=0170FE"/>
+<img src="https://img.shields.io/badge/DaisyUI-0B1020?style=flat-square&logo=daisyui&logoColor=5A0EF8"/>
+<img src="https://img.shields.io/badge/Semantic%20UI-0B1020?style=flat-square&logo=semanticuireact&logoColor=35BDB2"/>
+<img src="https://img.shields.io/badge/React%20Query-0B1020?style=flat-square&logo=reactquery&logoColor=FF4154"/>
+<img src="https://img.shields.io/badge/React%20Hook%20Form-0B1020?style=flat-square&logo=reacthookform&logoColor=EC5990"/>
+<img src="https://img.shields.io/badge/React%20Router-0B1020?style=flat-square&logo=reactrouter&logoColor=CA4245"/>
+<img src="https://img.shields.io/badge/Context%20API-0B1020?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,firebase&theme=dark"/>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,gcp&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CrateDB-0B1020?style=flat-square&logo=cratedb&logoColor=009DC7"/>
+</p>
+
+### 🚀 Deployment & Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,windows&theme=dark"/>
+</p>
+
+### 🎭 Design & Creative Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,framer,canva&theme=dark"/>
+</p>
+
+### 🌐 Web3 & Additional Technologies
+
+<p align="center">
+<img src="https://img.shields.io/badge/Web3.js-0B1020?style=flat-square&logo=web3.js&logoColor=F16822"/>
+<img src="https://img.shields.io/badge/Windows%20Terminal-0B1020?style=flat-square&logo=windowsterminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-0B1020?style=flat-square&logo=npm&logoColor=CB3837"/>
+</p>
+
+---
+
+<div align="center">
+
+## ◈ 03 — GITHUB ANALYTICS
+
+*My development journey, represented through data.*
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=rahathasanDev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=09090F&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=rahathasanDev&hide_border=true&background=09090F&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathasanDev&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=CBD5E1&langs_count=10"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ 04 — CONTRIBUTION GALAXY
+
+*Every contribution is another step forward.*
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahathasanDev&bg_color=09090F&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ 05 — THE DEVELOPER MINDSET
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="95%"/>
 
 <br/>
 
-*Made with curiosity, creativity & code.*
+### THINK DIFFERENT. BUILD BETTER. CREATE MORE.
 
-<img src="https://komarev.com/ghpvc/?username=rahathasanDev&style=flat-square&color=8B5CF6&label=VISITORS"/>
+*The best projects start with curiosity.*
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ 06 — CONNECT WITH ME
+
+*Let's turn interesting ideas into something real.*
+
+<a href="https://bsky.app/profile/rahatcodes.bsky.social">
+<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+</a>
+<a href="https://instagram.com/__rahat.verse__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/rahat-hasan-coder-365d7w/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/rahatcoder">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@rahathasan92">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:devrahat.hasan@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rahathasanDev&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITORS"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6D28D9,100:09090F&height=130&section=footer&animation=twinkling" width="100%"/>
+
+**THANK YOU FOR EXPLORING MY DIGITAL UNIVERSE.**
+
+<sub>Designed with creativity · Developed with passion · Powered by curiosity.</sub>
 
 </div>
